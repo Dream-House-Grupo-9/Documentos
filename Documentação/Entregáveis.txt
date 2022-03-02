@@ -1,0 +1,57 @@
+Grupo 09 - 3ADSA
+
+Nome do projeto: Dream House
+Participantes: Luiz Henrique, Felipe Amorim, Anderson Souza, Henri Cauã e Kennedy Martins.
+
+Entregavéis
+-----------
+- PI
+
+Contexto de Negócio​ - OK
+
+Justificativa do Projeto​ - OK
+
+Conta da Cloud criada​ - Azure OK
+
+Projeto configurado no GitHub​ - OK (https://github.com/Dream-House-Grupo-9/Documentos  e  https://github.com/Dream-House-Grupo-9/Codigos)
+
+Desenho de Solução (Negócio)​ - OK
+
+Definição das Personas​ - OK
+
+Levantamento dos Requisitos​ - PENDENTE
+
+Status Report​ - OK
+
+
+- Engenharia de Software
+
+Pesquisa de campo – Jornada do Usuário OK
+
+
+- Socioemocional
+Mapa de empatia (Fator crítico de sucesso) EM ANDAMENTO
+
+
+- Técnicas de Programação WEB
+
+Estrutura do Projeto Funcionando (Protótipo SpringBoot)​ PENDENTE
+
+Serviços de Login e Logoff em SpringBoot usando Postman​ PENDENTE
+
+
+- Estrutura de Dados e Armazenamentos
+
+Classe Abstrata ou Interface no  Projeto​ OK
+
+Padrão de Projeto Strategy OK
+
+
+- Bootcamp
+
+Protótipo Alta Resolução - Figma EM ANDAMENTO
+
+
+
+
+
